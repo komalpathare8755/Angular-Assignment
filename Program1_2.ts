@@ -13,3 +13,7 @@ var Ret : number=0;
  Ret=Area(5);
 
 console.log("Area of  circle is "+Ret);
+
+Ret=Area(6,3.14);
+
+console.log("Area of  circle is "+Ret);
